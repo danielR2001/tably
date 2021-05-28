@@ -1,11 +1,11 @@
 {
-    "name": "responsive_table_example",
-    "short_name": "responsive_table_example",
+    "name": "tably_example",
+    "short_name": "tably_example",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Demonstrates how to use the responsive_table plugin.",
+    "description": "Demonstrates how to use the tably plugin.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
